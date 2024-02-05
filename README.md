@@ -1,4 +1,4 @@
-# best_flutter_ui_templates
+# Flutter Best UI Templates
 
 A new Flutter project.
 
